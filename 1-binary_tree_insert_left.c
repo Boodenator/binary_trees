@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - node insertion as left-aux 
- *                           into other in a binary tree.
+ * binary_tree_insert_left - node insertion as left-aux
+ * into other in a binary tree.
  * @parent: ptr to node for inserttion of left-aux.
  * @value: The new node stored vlaue.
  *
